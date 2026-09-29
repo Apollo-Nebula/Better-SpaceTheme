@@ -1,31 +1,25 @@
 <div align="center">
 <h3><img height="64px" src="https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/logo.webp"></h3>
 
-Reason why this fork exists
+Reason why this fork exists.
 <img width="1176" height="88" alt="image" src="https://github.com/user-attachments/assets/97b9a90d-d63b-4699-8299-00ff1839dde2" />
 
 
-He tried to file a DMCA because i made the mistake of removing the license
+He tried to file a DMCA because i removed the license while deleting a bunch of files without paying attention, still a shitty thing to do.
 <img width="325" height="95" alt="image" src="https://github.com/user-attachments/assets/c3a3dcca-4e5a-4a40-893f-3546a83c2da9" />
 
 
 _________________________________________________________________________________________________________________________________________________________
 
-UPDATE : I ADDED BACK ICONS!! CHECK IMAGE
-
 SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
 _________________________________________________________________________________________________________________________________________________________
-A modifcation of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the broken piracy checks. So...
+A modification of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the Piracy Checks.
 
 -Original Userpanel
 
 -Original Downloads Button
 
 -Piracy checks removed
-_________________________________________________________________________________________________________________________________________________________
-
-NOTES:
-I plan to eventually add the original friends list.
 _________________________________________________________________________________________________________________________________________________________
 
 <img width="1919" height="1030" alt="img-2026-07-29-10-44-28" src="https://github.com/user-attachments/assets/e2f680a3-ec22-4077-ac22-4d0cd559e22d" />
@@ -43,10 +37,8 @@ ________________________________________________________________________________
 
 **Voilà! Enjoy the new look of your Steam!**
 
-## Info
-- Some things only work properly when steam is maximized on a 1920x1080p (or higher) monitor.
-  - Smaller monitors may be properly supported later
+_________________________________________________________________________________________________________________________________________________________
 
-## Fully supported plugins
-- [HLTB for Steam](https://steambrew.app/plugin?id=f685622bace6)
-- [Size on Disk](https://steambrew.app/plugin?id=e73371b61eef)
+Fully supported plugins                                                                                                                                                
+[HLTB for Steam](https://steambrew.app/plugin?id=f685622bace6)                                                       
+[Size on Disk](https://steambrew.app/plugin?id=e73371b61eef)
