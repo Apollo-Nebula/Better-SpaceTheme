@@ -6,7 +6,7 @@ Reason why this fork exists.
 
 
 He tried to file a DMCA because i removed the license while deleting a bunch of files without paying attention, still a shitty thing to do.
-<img width="325" height="95" alt="image" src="https://github.com/user-attachments/assets/c3a3dcca-4e5a-4a40-893f-3546a83c2da9" />
+                     <img width="325" height="95" alt="image" src="https://github.com/user-attachments/assets/c3a3dcca-4e5a-4a40-893f-3546a83c2da9" />
 
 
 _________________________________________________________________________________________________________________________________________________________
