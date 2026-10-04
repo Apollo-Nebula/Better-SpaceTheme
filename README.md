@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="866" height="288" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/49816697-7f6f-470e-8a5e-91f15cfb87f2" />
+  <img width="2172" height="724" alt="hispaceguy" src="https://github.com/user-attachments/assets/0593f87d-97d7-4671-9270-b3c1437f94e8" />
+
 
 
 
