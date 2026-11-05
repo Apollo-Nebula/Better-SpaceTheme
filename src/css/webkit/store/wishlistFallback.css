@@ -1,0 +1,118 @@
+/*
+& Wishlist fallback
+*
+* Companion of src/js/webkit/store/wishlistFallback.js.
+* The script tags elements that still use Steam's default blue palette with
+* [data-st-wl="..."] and sets html[data-st-wishlist] on /wishlist pages.
+* This works no matter how Steam re-hashes its class names.
+*/
+
+html[data-st-wishlist] {
+    --st-wl-radius: 8px;
+}
+
+
+/*
+! Surfaces (cards, header, rank column, navbar)
+*/
+html[data-st-wishlist] [data-st-wl="surface"] {
+    border-radius: var(--st-wl-radius) !important;
+    background: rgb(var(--st-color-2)) !important;
+    box-shadow: none !important;
+}
+
+/* Surface inside a surface (e.g. rank column inside a card) */
+html[data-st-wishlist] [data-st-wl="surface"] [data-st-wl="surface"] {
+    background: rgb(var(--st-color-3)) !important;
+}
+
+
+/*
+! Controls (search, Options, Sort by, Share)
+*/
+html[data-st-wishlist] [data-st-wl="control"] {
+    border-radius: var(--st-wl-radius) !important;
+    color: #fff;
+    background: rgb(var(--st-color-5)) !important;
+    box-shadow: none !important;
+}
+html[data-st-wishlist] [data-st-wl="control"]:hover,
+html[data-st-wishlist] [data-st-wl="control"]:focus-within {
+    background: rgb(var(--st-color-6)) !important;
+}
+
+/* Typing inside a tagged control must stay transparent */
+html[data-st-wishlist] [data-st-wl="control"] input {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+
+/*
+! Chips (user tags, categories)
+*/
+html[data-st-wishlist] [data-st-wl="chip"] {
+    border-radius: 6px !important;
+    background: rgb(var(--st-color-5)) !important;
+    box-shadow: none !important;
+}
+html[data-st-wishlist] [data-st-wl="chip"]:hover {
+    color: #fff;
+    background: rgb(var(--st-color-6)) !important;
+}
+
+
+/*
+! Badges (Early Access, Demo, ...)
+*/
+html[data-st-wishlist] [data-st-wl="badge"] {
+    border-radius: 6px !important;
+    background: rgb(var(--st-blue), .2) !important;
+    box-shadow: none !important;
+}
+
+
+/*
+! Buttons
+*/
+html[data-st-wishlist] [data-st-wl="green"],
+html[data-st-wishlist] [data-st-wl="blue"],
+html[data-st-wishlist] [data-st-wl="red"] {
+    border-radius: var(--st-wl-radius) !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+html[data-st-wishlist] [data-st-wl="green"] *,
+html[data-st-wishlist] [data-st-wl="blue"] *,
+html[data-st-wishlist] [data-st-wl="red"] * {
+    color: inherit !important;
+    text-shadow: none !important;
+}
+
+/** Add to Cart */
+html[data-st-wishlist] [data-st-wl="green"] {
+    color: rgb(var(--st-green)) !important;
+    background: rgb(var(--st-green), .2) !important;
+}
+html[data-st-wishlist] [data-st-wl="green"]:hover {
+    background: rgb(var(--st-green), .4) !important;
+}
+
+/** Add to Library, Search */
+html[data-st-wishlist] [data-st-wl="blue"] {
+    color: rgb(var(--st-blue)) !important;
+    background: rgb(var(--st-blue), .2) !important;
+}
+html[data-st-wishlist] [data-st-wl="blue"]:hover {
+    background: rgb(var(--st-blue), .4) !important;
+}
+
+/** Remove */
+html[data-st-wishlist] [data-st-wl="red"] {
+    color: rgb(var(--st-red)) !important;
+    background: rgb(var(--st-red), .2) !important;
+}
+html[data-st-wishlist] [data-st-wl="red"]:hover {
+    background: rgb(var(--st-red), .4) !important;
+}

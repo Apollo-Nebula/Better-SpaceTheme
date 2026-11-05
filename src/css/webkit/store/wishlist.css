@@ -1,0 +1,333 @@
+/*
+! NOTE (2026-11): Steam re-hashed its store class names.
+! The root class and the price-block classes below were updated from SpaceTheme/Steam's
+! current webkit.css. The other wishlist-specific classes could not be derived from
+! either repo, so colors/shape of the page are also covered by wishlistFallback.css + .js,
+! which does not depend on hashed class names. Once the new names are known
+! (see the header of wishlistFallback.js), replace them here for the full layout.
+*/
+
+.dm2SGcwBwj4- body.VuAIAiWhjcg- {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+.dm2SGcwBwj4- body.VuAIAiWhjcg-::before {
+    content: "";
+    z-index: -1;
+    position: fixed;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-1));
+}
+
+.dm2SGcwBwj4- .GHIW6-Wf1rQ- {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+.dm2SGcwBwj4- .GHIW6-Wf1rQ- .oI5QPBYWG8c- {
+    max-width: var(--st-store-max-width);
+}
+
+
+
+/* Wishlist button */
+.dm2SGcwBwj4- .bFz2fxg5qDY- {
+    display: none;
+}
+
+
+
+/*
+& Header
+*/
+.dm2SGcwBwj4- .G-xGsXlx-Sw- {
+    margin: 0;
+    padding: 12px;
+    border-radius: 8px 8px 0 0;
+    background-color: rgb(var(--st-color-2));
+}
+
+
+/*
+! Avatar
+*/
+.dm2SGcwBwj4- .OVtmn7mzw0o- {
+    width: 54px;
+    height: 54px;
+}
+
+.dm2SGcwBwj4- .gRteJ-XhQG8- {
+    background: none !important;
+}
+
+.dm2SGcwBwj4- .t1-DQ4KhiQ0- .YbrTGQJwy1w- {
+    border-radius: 100%;
+    background: none !important;
+}
+
+.dm2SGcwBwj4- .t1-DQ4KhiQ0- .EeeZUuRovTI- {
+    display: none;
+}
+
+
+/** Text */
+.dm2SGcwBwj4- .G-xGsXlx-Sw- h2 {
+    margin: 0 0 0 12px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+
+/*
+! Controls
+*/
+.dm2SGcwBwj4- .oetRs2-bpC8- {
+    gap: 12px;
+    margin: 0 0 16px;
+    padding: 0 12px 12px;
+    border-radius: 0 0 8px 8px;
+    background-color: rgb(var(--st-color-2));
+}
+
+.dm2SGcwBwj4-:has(.Wh-OfiQaHSM-) .oetRs2-bpC8- {
+    margin: 0;
+    padding: 0 12px 6px;
+    border-radius: 0;
+}
+
+
+/** Search */
+.dm2SGcwBwj4- .oetRs2-bpC8- ._4Es02s8Xf3s- {
+    margin: 0;
+    padding: 0 0 0 12px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-1));
+    box-shadow: none;
+}
+
+
+/** Dropdown */
+.dm2SGcwBwj4- .oetRs2-bpC8- .ADJFyRYJvZU- {
+    gap: 6px;
+}
+
+.dm2SGcwBwj4- .oetRs2-bpC8- .GSvYfBXmdTE- {
+    margin: 0;
+    color: #fff;
+    background-color: rgb(var(--st-color-1));
+}
+.dm2SGcwBwj4- .oetRs2-bpC8- .GSvYfBXmdTE- .teCJ2wJC-iU- {
+    color: rgb(var(--st-accent-1));
+}
+
+
+/** Option Menu */
+.dm2SGcwBwj4- .F0YMvqVKHkY- {
+    margin: 6px auto 0;
+    padding: 12px;
+    border: 2px solid rgb(var(--st-color-5));
+    border-radius: 8px;
+    box-shadow: 0px 0px 16px 0px rgb(0, 0, 0);
+    background-color: rgb(var(--st-color-2));
+}
+
+.dm2SGcwBwj4- .F0YMvqVKHkY- form {
+    grid-gap: 6px;
+}
+
+
+/** Filter tags */
+.dm2SGcwBwj4- span:has(.Wh-OfiQaHSM-) {
+    display: block;
+    margin: 0 0 16px;
+    padding: 0 12px 12px;
+    border-radius: 0 0 8px 8px;
+    background-color: rgb(var(--st-color-2));
+}
+
+.dm2SGcwBwj4- .Wh-OfiQaHSM- {
+    margin: 0;
+    padding: 6px 28px 6px 6px;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-3));
+    background-position: right 6px top 8px;
+}
+.dm2SGcwBwj4- .Wh-OfiQaHSM-::after {
+    top: 50%;
+    bottom: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    color: #67707b;
+    background-color: rgb(var(--st-color-5));
+}
+
+
+/** Divider */
+.dm2SGcwBwj4- .ausV0RShSvA- {
+    display: none;
+}
+
+
+
+/*
+& Cards
+*/
+.dm2SGcwBwj4- .yhLprNB93bY- {
+    position: relative;
+    min-height: unset;
+}
+
+
+
+/*
+! Rank/Order
+*/
+.dm2SGcwBwj4- .MAMcEvZCSmY- {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: unset;
+    height: -webkit-fill-available;
+    padding: 6px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-2));
+}
+
+
+/** Icon */
+.dm2SGcwBwj4- .MAMcEvZCSmY- .xgHCDhZc--A- img {
+    display: none;
+}
+
+/*^ Custom Icon */
+.dm2SGcwBwj4- .MAMcEvZCSmY- .xgHCDhZc--A-::after {
+    content: "\ec44";
+    font-size: 24px;
+    font-family: FluentSystemIcons-Filled !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+/** Input */
+.dm2SGcwBwj4- .MAMcEvZCSmY-:hover .oSpPXI7jWxI->input {
+    outline: 2px solid rgb(var(--st-color-5));
+    border-radius: 8px;
+    background-color: unset;
+    box-shadow: unset;
+}
+
+
+
+/*
+! Game
+*/
+.dm2SGcwBwj4- .c-Pw-ER6JnA- {
+    position: unset;
+    grid-template-columns: max-content;
+    grid-template-rows: unset;
+    grid-template-areas:
+        "capsule upper upper"
+        "capsule lower remove"
+        "capsule mid purchase"
+        "capsule platform purchase";
+    gap: 12px;
+    width: -webkit-fill-available;
+    height: unset;
+    margin: 0 0 12px 48px;
+    padding: 12px;
+    font-weight: unset;
+    background-color: rgb(var(--st-color-2)) !important;
+    box-shadow: none;
+}
+.dm2SGcwBwj4- .c-Pw-ER6JnA-:not(:has(.MAMcEvZCSmY-)) {
+    position: relative;
+    margin: 0 0 12px;
+}
+
+
+/** Image */
+.dm2SGcwBwj4- .c-Pw-ER6JnA- .J-rmzQeQW-A-,
+.dm2SGcwBwj4- .c-Pw-ER6JnA- .J-rmzQeQW-A- .TqDNCK5Qf7I- {
+    width: fit-content;
+    height: 148px;
+}
+
+.dm2SGcwBwj4- .c-Pw-ER6JnA- .J-rmzQeQW-A- .YP7EaAGJ5w8- {
+    position: unset;
+}
+
+.dm2SGcwBwj4- .c-Pw-ER6JnA- .J-rmzQeQW-A- img {
+    border-radius: 8px;
+}
+
+
+/**TODO Content */
+
+
+
+/** Remove */
+.dm2SGcwBwj4- .c-Pw-ER6JnA- .Yg0IhgBRaUA- {
+    display: none;
+}
+
+.dm2SGcwBwj4- .c-Pw-ER6JnA-:hover .Yg0IhgBRaUA- {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    display: block;
+    height: unset;
+    padding: 6px;
+    font-size: 0;
+    background-color: rgb(var(--st-red), .3);
+}
+
+.dm2SGcwBwj4- .c-Pw-ER6JnA- .Yg0IhgBRaUA-:hover {
+    background-color: rgb(var(--st-red), .4);
+}
+
+/*^ Custom Icon */
+.dm2SGcwBwj4- .c-Pw-ER6JnA- .Yg0IhgBRaUA-::after {
+    content: "\f36a";
+    display: block;
+    font-size: 16px;
+    color: rgb(var(--st-red));
+    font-family: FluentSystemIcons-Filled !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+/** Price */
+/* Gap fix */
+.dm2SGcwBwj4- ._6QzykeEsckc- {
+    gap: 12px !important;
+}
+
+/* Gap and Height fix */
+.dm2SGcwBwj4- ._6QzykeEsckc- .Cj7J5QHbL-0- {
+    gap: 6px;
+    min-height: unset;
+}
+
+/* Background fix */
+.dm2SGcwBwj4- ._6QzykeEsckc- .rsMD9WnTopA-  {
+    background-color: unset;
+}

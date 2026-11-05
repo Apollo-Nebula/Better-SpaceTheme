@@ -1,50 +1,45 @@
 <div align="center">
-  <img width="2172" height="724" alt="hispaceguy" src="https://github.com/user-attachments/assets/0593f87d-97d7-4671-9270-b3c1437f94e8" />
+<h3><img height="64px" src="https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/logo.webp"></h3>
 
+SpaceTheme Creator Links
+[![Discord](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/community.webp)](https://discord.spacetheme.net)
+[![KoFi](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/support.webp)](https://kofi.spacetheme.net)
+[![Website](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/website.webp)](https://spacetheme.net)
 
+SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
+_________________________________________________________________________________________________________________________________________________________
+A modifcation of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the broken piracy checks. So...
 
+-Original Userpanel
 
-  <p>A modification of SpaceTheme that moves the Userpanel and Downloads button to their original positions.</p>
+-Original Downloads Button
 
-  <p><a href="https://discord.gg/qFt4UDr49A"><b>SpaceTheme Fix discord >>></b> https://discord.gg/qFt4UDr49A</a></p>
-</div>
+-Piracy checks removed
+_________________________________________________________________________________________________________________________________________________________
 
----
+NOTES:
+I plan to eventually add the original friends list.
+_________________________________________________________________________________________________________________________________________________________
 
-<div align="center">
-  <img width="100%" alt="Theme Preview" src="https://github.com/user-attachments/assets/e2f680a3-ec22-4077-ac22-4d0cd559e22d" />
-</div>
-
-- Original Userpanel
-- Original Downloads Button
-
----
+[<img width="1919" height="1032" alt="588786059-8ac36e38-65a7-4e35-92bd-a27086ab013e" src="https://github.com/user-attachments/assets/4808c01b-b59a-4f0f-9f5b-b87a21c06077" />](https://imgur.com/a/neBaYwU)
+<details>
 
 ## Installation
 1. Download [Millennium](https://docs.steambrew.app/users/installing) and follow the provided instructions to install the patcher.
 2. Extract the zip file you were given and place the files inside the SpaceTheme-Fix folder into your Steam skins folder
-3. `C:\Program Files (x86)\Steam\steamui\skins\Steam`
+3. C:\Program Files (x86)\Steam\steamui\skins\Steam
 
-> **IT SHOULD LOOK LIKE THIS**
-> 
-> <img width="435" height="449" alt="image" src="https://github.com/user-attachments/assets/bfb8cc3f-f179-456a-aae7-daec61a6c12d" />
+   IT SHOULD LOOK LIKE THIS
+
+   <img width="435" height="449" alt="image" src="https://github.com/user-attachments/assets/bfb8cc3f-f179-456a-aae7-daec61a6c12d" />
+
 
 **Voilà! Enjoy the new look of your Steam!**
 
----
+## Info
+- Some things only work properly when steam is maximized on a 1920x1080p (or higher) monitor.
+  - Smaller monitors may be properly supported later
 
-### Fully supported plugins                                                                                                                                                
-- [HLTB for Steam](https://steambrew.app/plugin?id=f685622bace6)                                                       
+## Fully supported plugins
+- [HLTB for Steam](https://steambrew.app/plugin?id=f685622bace6)
 - [Size on Disk](https://steambrew.app/plugin?id=e73371b61eef)
-
----
-
-### Reason why this fork exists.
-
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/97b9a90d-d63b-4699-8299-00ff1839dde2" />
-
----
-
-> He tried to file a DMCA because i removed the license while deleting a bunch of files without paying attention, still a shitty thing to do.
-
-<img width="325" height="95" alt="image" src="https://github.com/user-attachments/assets/c3a3dcca-4e5a-4a40-893f-3546a83c2da9" />

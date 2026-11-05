@@ -1,0 +1,722 @@
+._3x1HklzyDs4TEjACrRO2tB {
+    background-image: none;
+}
+
+
+
+/*
+& Home and Collections
+*/
+._3x1HklzyDs4TEjACrRO2tB ._2TKEazUUS3TlniZfpc8OOe {
+    gap: 6px;
+    height: unset;
+    margin-bottom: 16px;
+    padding: 6px;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-2));
+    box-shadow: none;
+}
+
+
+/*
+! Home Button
+*/
+._3x1HklzyDs4TEjACrRO2tB ._3pSPluBgf0NeR1kkCLWMhR {
+    height: 42px;
+    padding: 6px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-1)) !important;
+    transition: all 0.2s ease-in-out;
+}
+._3x1HklzyDs4TEjACrRO2tB ._3pSPluBgf0NeR1kkCLWMhR:hover {
+    background-color: rgb(var(--st-color-3)) !important;
+}
+
+
+/** Text */
+._3x1HklzyDs4TEjACrRO2tB ._3pSPluBgf0NeR1kkCLWMhR ._3O48LaKWcabKx07xdrt1TH {
+    font-weight: 600;
+}
+
+
+/** Logo in home button */
+._3x1HklzyDs4TEjACrRO2tB ._3pSPluBgf0NeR1kkCLWMhR ._1ooROmAgkhoBH_o65yl9dJ {
+    top: 0;
+    right: 0;
+    width: 42px;
+    height: 42px;
+    background-image: url("../../icons/logo.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    mask-image: none;
+    -webkit-mask-image: none;
+    transform: rotate(35deg) scale(1.2);
+}
+
+/*^ Hide steam logo*/
+._3x1HklzyDs4TEjACrRO2tB ._1ooROmAgkhoBH_o65yl9dJ svg {
+    display: none;
+}
+
+
+/*
+! Collection button
+*/
+._3x1HklzyDs4TEjACrRO2tB ._3pSPluBgf0NeR1kkCLWMhR._30KGSfPjPskFlnrSxBfkiK {
+    width: 42px;
+    height: 42px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-1));
+    transition: all 0.2s ease-in-out;
+}
+._3x1HklzyDs4TEjACrRO2tB ._3pSPluBgf0NeR1kkCLWMhR._30KGSfPjPskFlnrSxBfkiK:hover {
+    background-color: rgb(var(--st-color-3));
+}
+
+
+/** Icon grid */
+._3x1HklzyDs4TEjACrRO2tB .nC-pL16iUnIRcaj1UVnwq {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 4px;
+    grid-row-gap: 4px;
+    width: 42px;
+    height: auto;
+    margin: 4px;
+    padding: 4px;
+    border: 2px solid rgb(var(--st-color-2));
+    border-radius: 6px;
+    transition: all 0.2s ease-in-out;
+}
+._3x1HklzyDs4TEjACrRO2tB .xeuK3OqQYpIbPs1mCIS0k:hover .nC-pL16iUnIRcaj1UVnwq {
+    border: 2px solid rgb(var(--st-color-5));
+}
+
+/*^ Squares */
+._3x1HklzyDs4TEjACrRO2tB .nC-pL16iUnIRcaj1UVnwq ._2tyaVs9BpqcW068aaOrO56 {
+    border-radius: 2px;
+    background-color: rgb(var(--st-color-2)) !important;
+    transition: all 0.2s ease-in-out;
+}
+._3x1HklzyDs4TEjACrRO2tB .xeuK3OqQYpIbPs1mCIS0k:hover .nC-pL16iUnIRcaj1UVnwq ._2tyaVs9BpqcW068aaOrO56 {
+    background-color: rgb(var(--st-color-5)) !important;
+}
+
+
+
+/*
+& Filters
+*/
+._3x1HklzyDs4TEjACrRO2tB ._1ZS_xta5HMXzR8JgxDH6n7 {
+    display: block;
+    padding: 6px 6px 0;
+    border-radius: 8px 8px 0 0;
+    background-color: rgb(var(--st-color-2));
+}
+
+
+/*
+! Dropdown
+*/
+._3x1HklzyDs4TEjACrRO2tB ._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC {
+    padding: 6px;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-3));
+    transition: all 0.2s ease-in-out;
+}
+._3x1HklzyDs4TEjACrRO2tB ._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC:hover {
+    background-color: rgb(var(--st-color-1));
+}
+
+
+/*
+! Go up button
+*/
+._3x1HklzyDs4TEjACrRO2tB .uE7Pj4tb2n3_Bx4vjEX0a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-3));
+    transition: all 0.2s ease-in-out;
+}
+._3x1HklzyDs4TEjACrRO2tB .uE7Pj4tb2n3_Bx4vjEX0a.rkfSfuCLRt8sqpkXJqxYo {
+    margin-left: 6px;
+}
+._3x1HklzyDs4TEjACrRO2tB .uE7Pj4tb2n3_Bx4vjEX0a.rkfSfuCLRt8sqpkXJqxYo:hover {
+    background-color: rgb(var(--st-color-1));
+}
+
+
+/*
+! Linux/Recent/Ready
+*/
+._3x1HklzyDs4TEjACrRO2tB ._1ZS_xta5HMXzR8JgxDH6n7 ._36r2az6roul_Oej7D4BMI6 {
+    display: block;
+    margin: 6px 0;
+}
+._3x1HklzyDs4TEjACrRO2tB ._1ZS_xta5HMXzR8JgxDH6n7 ._36r2az6roul_Oej7D4BMI6 ._1PgAonvorr0o_NMxNKiDFU {
+    gap: 6px;
+    margin-left: 0;
+}
+
+
+/** Buttons */
+._3x1HklzyDs4TEjACrRO2tB ._1ZS_xta5HMXzR8JgxDH6n7 ._36r2az6roul_Oej7D4BMI6 ._1PgAonvorr0o_NMxNKiDFU ._3mzKdQXht__YHo6PX1LmB6 {
+    width: 100%;
+    margin: 0;
+    padding: 6px;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-3));
+    transition: all 0.2s ease-in-out;
+}
+._3x1HklzyDs4TEjACrRO2tB ._1ZS_xta5HMXzR8JgxDH6n7 ._36r2az6roul_Oej7D4BMI6 ._1PgAonvorr0o_NMxNKiDFU ._3mzKdQXht__YHo6PX1LmB6:hover {
+    background-color: rgb(var(--st-color-1));
+}
+
+
+/*
+! Searchbar
+*/
+._20QAC4WMXm8qFE8waUT5oo,
+._3x1HklzyDs4TEjACrRO2tB ._20QAC4WMXm8qFE8waUT5oo._3qwXPrhpZYqVbJxrZDrvjy {
+    margin: 0;
+    padding: 0 6px 16px;
+    border-radius: 0;
+    background-color: rgb(var(--st-color-2));
+}
+
+
+/** Search input */
+._3x1HklzyDs4TEjACrRO2tB ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS {
+    border-radius: 8px 0 0 8px;
+    background-color: rgb(var(--st-color-3));
+}
+._3x1HklzyDs4TEjACrRO2tB ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase {
+    border: none;
+    box-shadow: none;
+}
+._3x1HklzyDs4TEjACrRO2tB ._20QAC4WMXm8qFE8waUT5oo ._12vo5L1hsNGdao6_ssuirS .DialogTextInputBase:hover {
+    background-color: unset;
+}
+
+
+/** Filter */
+._3x1HklzyDs4TEjACrRO2tB ._20QAC4WMXm8qFE8waUT5oo .vCCmYvn9yQ_V8CpKupllU {
+    border-radius: 0 8px 8px 0;
+    background-color: rgb(var(--st-color-3)) !important;
+}
+._3x1HklzyDs4TEjACrRO2tB ._20QAC4WMXm8qFE8waUT5oo .vCCmYvn9yQ_V8CpKupllU:hover {
+    background-color: rgb(var(--st-color-1)) !important;
+}
+
+
+/*
+! Divider
+*/
+._3x1HklzyDs4TEjACrRO2tB ._20QAC4WMXm8qFE8waUT5oo::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    margin: 0 12px 6px;
+    width: calc(100% - 36px);
+    height: 4px;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-1));
+}
+
+
+
+/*
+& Game list
+*/
+._3x1HklzyDs4TEjACrRO2tB ._1ijTaXJJA5YWl_fW2IxcaT {
+    border-radius: 0 0 8px 8px;
+    background-color: rgb(var(--st-color-2));
+}
+
+/*
+& Game item text overflow popup
+*/
+
+._3x1HklzyDs4TEjACrRO2tB ._3vg1vYU7iTWqONciv9cuJN {
+    display: none;
+}
+
+/*
+! Collection header
+*/
+._3x1HklzyDs4TEjACrRO2tB ._2sYIghGVXJr6tsQVvcryy8 {
+    margin: 0 0 0 6px;
+    border: none;
+    border-radius: 8px;
+    background: none;
+    background-color: rgb(var(--st-color-1));
+    align-items: center;
+}
+._3x1HklzyDs4TEjACrRO2tB ._2sYIghGVXJr6tsQVvcryy8:hover {
+    background-color: rgb(var(--st-color-3));
+}
+
+
+/** Close/Open icon */
+._3x1HklzyDs4TEjACrRO2tB ._2sYIghGVXJr6tsQVvcryy8 ._3SFRZYIb9Y2q7YsVtB3YKb {
+    height: unset;
+    display: flex;
+    align-items: center;
+    padding: 0 2px 0 4px;
+}
+
+
+/** Title */
+._3x1HklzyDs4TEjACrRO2tB ._2sYIghGVXJr6tsQVvcryy8 ._2mZ8LlvoUiyeEUtIWuTri {
+    height: unset;
+}
+
+
+/*
+! Game item
+*/
+._3x1HklzyDs4TEjACrRO2tB .ReactVirtualized__Grid .Panel[role="gridcell"] {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+}
+
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ {
+    margin: 0 0 0 6px;
+    border: none;
+    border-radius: 8px;
+}
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ:hover,
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ :hover {
+    background-color: rgb(var(--st-color-3)) !important;
+}
+
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ._1UBpAXP408Ez_L_mXhW5Q9 {
+    font-weight: 600;
+    color: rgb(var(--st-accent-1)) !important;
+    background-color: rgb(var(--st-accent-1), .3);
+    box-shadow: unset;
+}
+
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ ._1vO6BoiVslZgs1kqDGdUs8 {
+    align-items: center;
+}
+
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ span {
+    width: max-content;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    min-width: 0;
+    color: transparent;
+    position: relative;
+}
+
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ span::before {
+    content: attr(data-st-hover-text);
+    display: block;
+    color: #a3aab9;
+    will-change: transform;
+    transform: translate3d(0, -50%, 0);
+    backface-visibility: hidden;
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ._1UBpAXP408Ez_L_mXhW5Q9 span::before {
+    color: rgb(var(--st-accent-1));
+}
+
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ._2ws8DONH9fxQjPXEmRpujE span::before {
+    color: #f1f7ff;
+}
+
+._3x1HklzyDs4TEjACrRO2tB ._2-O4ZG0KrnSrzISHBKctFQ:hover span::before {
+    animation: text-bounce var(--st-game-hover-duration) cubic-bezier(0.45, 0, 0.55, 1) infinite alternate;
+}
+
+@keyframes text-bounce {
+    0%, 12% { transform: translate3d(0, -50%, 0); }
+    88%, 100% { transform: translate3d(calc(-1 * var(--st-game-overflow)), -50%, 0); }
+}
+
+/*
+! Game item title separator
+*/
+._2-O4ZG0KrnSrzISHBKctFQ span._2RggXvVkWMDvvxFegjtKso {
+    position: absolute;
+    visibility: hidden;
+}
+
+/** Icon */
+._2-O4ZG0KrnSrzISHBKctFQ .ga1hyw11cdBVodrCAidPF ._3d_bT685lnWotXxgzKW6am.yDr03475kalWBTwAE-Rnw {
+    border-radius: 4px !important;
+}
+
+
+
+/*
+& Download bar
+*/
+._1_yS5UP7el0aN4vntx3dx {
+    height: 49px;
+}
+
+._1_yS5UP7el0aN4vntx3dx ._3vCzSrrXZzZjVJFZNg9SGu {
+    box-sizing: border-box;
+    align-items: center;
+    gap: 28px;
+    flex: unset;
+    height: 100%;
+    padding: 8px 20px;
+    border-radius: 8px;
+    background-color: rgb(var(--st-color-2));
+    box-shadow: unset;
+}
+
+
+/*
+! Fix: Friends & Chat button reuses the same class as the top userpanel's icon
+  buttons, which gives it a dark chip background — but this button already sits
+  inside the download bar's own pill, so it was rendering a double background.
+*/
+._1_yS5UP7el0aN4vntx3dx ._1TdaAqMFadi0UTqilrkelR,
+._1_yS5UP7el0aN4vntx3dx ._1TdaAqMFadi0UTqilrkelR:hover {
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+
+
+/*
+! Add Game button - restored to original position
+*/
+._1_yS5UP7el0aN4vntx3dx ._2foCkpRXhqq0UGVE50BWqj {
+    flex-shrink: 0;
+}
+
+
+/*
+! Progress
+*/
+/* Takes the space between Add a Game and Friends & Chat (never overlaps them) */
+._1_yS5UP7el0aN4vntx3dx ._2EQ7ghgqIdjKv9jsQC0Zq9,
+._1_yS5UP7el0aN4vntx3dx .ip-YZhijAMZcuRoXBGiye {
+    flex: 1 1 0;
+    min-width: 0;
+}
+
+._1_yS5UP7el0aN4vntx3dx .ip-YZhijAMZcuRoXBGiye {
+    justify-content: center;
+    width: 100%;
+    max-width: unset;
+    padding: 0;
+}
+
+._1_yS5UP7el0aN4vntx3dx ._2VtAqT03BpBsVdmxwptn9D {
+    flex-direction: column;
+    align-items: unset;
+    gap: 0px;
+    width: 100%;
+}
+
+
+/** Game & Download icon (only hide the small thumbnail inside the active download progress row —
+    the old selector below also matched the Add a Game / Friends & Chat icons since they share
+    the same icon class, wiping those icons out too) */
+._1_yS5UP7el0aN4vntx3dx ._2VtAqT03BpBsVdmxwptn9D ._1KrJ3sFAqPBN9mfpaNTU5F {
+    display: none;
+}
+
+
+/** Strip Steam's default background chip from button icons in this bar (e.g. Friends & Chat),
+    which was never themed and shows up as a mismatched dark box behind the icon */
+._1_yS5UP7el0aN4vntx3dx ._1KrJ3sFAqPBN9mfpaNTU5F {
+    background: transparent !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+
+/** Progressbar */
+._1_yS5UP7el0aN4vntx3dx ._2_FomluqqgQ2Hx8ON3AVep ._1xCcFYWIrJ7W8WRDmGvR3y {
+    justify-content: flex-end;
+}
+
+._1_yS5UP7el0aN4vntx3dx ._2_FomluqqgQ2Hx8ON3AVep .wi0pDywRgOCxhG7OqQNaA {
+    overflow: hidden;
+    height: 6px;
+    margin-top: 5px;
+    border-radius: 8px;
+    --color-progress-bar-foreground: rgb(var(--st-accent-1));
+    --color-progress-bar-background: rgb(var(--st-color-5));
+}
+._1_yS5UP7el0aN4vntx3dx ._2_FomluqqgQ2Hx8ON3AVep .wi0pDywRgOCxhG7OqQNaA::after {
+    border-radius: 8px;
+}
+
+/** Status text ("Downloading 1 of 1") */
+._1_yS5UP7el0aN4vntx3dx ._2VtAqT03BpBsVdmxwptn9D ._3OhUxFVlQYr9W5ThxstR8k {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+/** Percentage */
+._1_yS5UP7el0aN4vntx3dx ._2VtAqT03BpBsVdmxwptn9D ._1-TLiuTZBQNz2fvBGj6aq- {
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: rgb(var(--st-accent-2));
+}
+
+
+/*
+! Steam Client Notice
+*/
+._1_yS5UP7el0aN4vntx3dx ._2iJsgdTIX9Tj23rWnB7Q-c {
+    padding: 16px;
+    border-radius: 8px;
+    background-color: rgb(var(--st-blue));
+    box-shadow: 0px 4px 8px 0px rgba(var(--st-background), 0.5);
+}
+
+._1_yS5UP7el0aN4vntx3dx ._2iJsgdTIX9Tj23rWnB7Q-c ._1sMxtPKaL0DcIZgJCQRduV {
+    min-height: unset;
+}
+
+._1_yS5UP7el0aN4vntx3dx ._2iJsgdTIX9Tj23rWnB7Q-c ._2ohOQgahhMYnIEfAQmv9B8 {
+    padding: 6px 16px;
+    border-radius: 8px;
+}
+
+
+
+/*
+& Userpanel
+*/
+._3cykd-VfN_xBxf3Qxriccm {
+    gap: 4px;
+    padding: 2px 4px;
+    margin-right: 90px;
+    border-radius: 6px;
+    background-color: rgb(var(--st-color-2));
+    align-items: center;
+}
+._3x1HklzyDs4TEjACrRO2tB:has(.yZ55NhARZGx1Awk2qs8pS) ._3cykd-VfN_xBxf3Qxriccm {
+    margin: 6px 0 0;
+}
+
+/*
+! Account Alert
+*/
+._3cykd-VfN_xBxf3Qxriccm ._3E5iVG630BkOHTaJJaMEMw {
+    box-sizing: border-box;
+    height: unset;
+    padding: 12px;
+    font-weight: 900;
+    border: 2px solid rgb(var(--st-red));
+    color: rgb(var(--st-red));
+    background-color: rgb(var(--st-red), .2) !important;
+}
+
+
+/* Button order */
+._3cykd-VfN_xBxf3Qxriccm .userpanel-buttoncontainer {
+    display: flex;
+    gap: 6px;
+    width: 100%;
+}
+
+/* User buttons */
+._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi) ._3yD46y5pd3zOGR7CzKs0mC {
+    position: relative;
+    gap: 0;
+    max-height: unset;
+    padding: 2px 4px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 6px !important;
+    background-color: transparent !important;
+    transition: background-color 0.15s ease-in-out;
+}
+._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi) ._3yD46y5pd3zOGR7CzKs0mC:hover {
+    background-color: rgb(var(--st-color-3)) !important;
+}
+._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi) ._3yD46y5pd3zOGR7CzKs0mC:has(._2jphjrSifC6orDT4g_7Wd) {
+    align-items: flex-start;
+}
+
+/* Fix: prevent long/spaced names from wrapping vertically and overlapping UI.
+   The button (_3yD46y5pd3zOGR7CzKs0mC) is a flex row [avatar | name text].
+   Setting overflow:hidden on the button clips overflowing name text without
+   affecting the button's flex alignment or height at all. The parent
+   (_2Lu3d-5qLmW4i19ysTt2jT) gets min-width:0 so it can actually shrink
+   within its own flex container and give the button a finite width to clip to. */
+._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi):has(._3yD46y5pd3zOGR7CzKs0mC) {
+    min-width: 0;
+    overflow: hidden;
+}
+._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi) ._3yD46y5pd3zOGR7CzKs0mC {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+/* Avatar */
+._3cykd-VfN_xBxf3Qxriccm .nibodjvvrm86uCfnnAn4g.avatarHolder {
+    width: 32px;
+    height: 32px;
+    margin-right: 6px;
+    transform: unset;
+}
+
+._3yD46y5pd3zOGR7CzKs0mC ._3xUpb5DWXPFNcHHIcv-9pe.avatarStatus {
+    display: none !important;
+}
+
+._3yD46y5pd3zOGR7CzKs0mC ._3h-QRJGxnVOIExtHD1R0f2 {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 8px;
+    box-shadow: none;
+}
+._3yD46y5pd3zOGR7CzKs0mC.online ._3h-QRJGxnVOIExtHD1R0f2 {
+    border: 2px solid rgb(var(--st-blue));
+}
+._3yD46y5pd3zOGR7CzKs0mC.awayOrSnooze ._3h-QRJGxnVOIExtHD1R0f2 {
+    border: 2px solid rgb(var(--st-yellow));
+}
+._3yD46y5pd3zOGR7CzKs0mC.ingame ._3h-QRJGxnVOIExtHD1R0f2 {
+    border: 2px solid rgb(var(--st-green));
+}
+._3yD46y5pd3zOGR7CzKs0mC.offline ._3h-QRJGxnVOIExtHD1R0f2 {
+    border: 2px solid #515151;
+}
+
+/* Name */
+._3yD46y5pd3zOGR7CzKs0mC.online {
+    color: rgb(var(--st-blue));
+}
+._3yD46y5pd3zOGR7CzKs0mC.awayOrSnooze {
+    color: rgb(var(--st-yellow));
+}
+._3yD46y5pd3zOGR7CzKs0mC.ingame {
+    color: rgb(var(--st-green));
+}
+._3yD46y5pd3zOGR7CzKs0mC.offline {
+    color: #515151;
+}
+
+/* Wallet */
+._3yD46y5pd3zOGR7CzKs0mC ._2jphjrSifC6orDT4g_7Wd {
+    position: absolute;
+    left: calc(6px + 32px + 6px);
+    bottom: 6px;
+    font-size: 11px;
+}
+
+/* Fix: ensure user button is always wide enough so the wallet balance
+   text never slides under the BPM/other buttons for short usernames */
+._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi) ._3yD46y5pd3zOGR7CzKs0mC {
+    min-width: 90px;
+}
+
+
+._3yD46y5pd3zOGR7CzKs0mC ._1p_QrI3ixF-RAwnxad9pEm {
+    box-shadow: none;
+}
+
+
+._3yD46y5pd3zOGR7CzKs0mC ._3x51wbt5DYyWC8JKwQ51ir {
+    display: none;
+}
+
+/* Buttons */
+._3cykd-VfN_xBxf3Qxriccm>div,
+._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi) {
+    width: 100%;
+}
+
+
+._3cykd-VfN_xBxf3Qxriccm .userpanel-buttoncontainer>div,
+._3cykd-VfN_xBxf3Qxriccm .userpanel-buttoncontainer ._2Szzh5sKyGgnLUR870zbDE,
+._3cykd-VfN_xBxf3Qxriccm .userpanel-buttoncontainer ._2Lu3d-5qLmW4i19ysTt2jT>div {
+    width: 100%;
+    height: 28px;
+}
+
+._3cykd-VfN_xBxf3Qxriccm ._1TdaAqMFadi0UTqilrkelR {
+    flex-shrink: unset;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+._3cykd-VfN_xBxf3Qxriccm ._13vrqU6oOqmmxrsZSW5O39 {
+    min-width: unset;
+}
+._3cykd-VfN_xBxf3Qxriccm ._13vrqU6oOqmmxrsZSW5O39>div {
+    cursor: pointer;
+}
+
+._2Szzh5sKyGgnLUR870zbDE,
+._1TdaAqMFadi0UTqilrkelR {
+    padding: 0;
+    border-radius: 8px !important;
+    background-color: rgb(var(--st-color-3)) !important;
+    transition: background-color 0.15s ease-in-out;
+}
+._2Szzh5sKyGgnLUR870zbDE:hover,
+._1TdaAqMFadi0UTqilrkelR:hover {
+    background-color: rgb(var(--st-color-1)) !important;
+}
+
+._3cykd-VfN_xBxf3Qxriccm ._1n8t0vHFud57AoJ_IDgA9C,
+._3cykd-VfN_xBxf3Qxriccm ._32TmRVFkc8HMIUZ-KnnKby,
+._3cykd-VfN_xBxf3Qxriccm ._1AcQ7PwcnBGsbAmuKOZHvd,
+._3cykd-VfN_xBxf3Qxriccm ._13vrqU6oOqmmxrsZSW5O39,
+._3cykd-VfN_xBxf3Qxriccm ._3arz-hc3FJ0QKXLPRUSaah,
+._3cykd-VfN_xBxf3Qxriccm ._5wILZhsLODVwGfcJ0hKmJ,
+._3cykd-VfN_xBxf3Qxriccm .EdtW0igyTLSSiXq1Mcc8F,
+._3cykd-VfN_xBxf3Qxriccm ._3mGEzzp18imtSzGPkduedi,
+._3cykd-VfN_xBxf3Qxriccm ._3yD46y5pd3zOGR7CzKs0mC,
+._3cykd-VfN_xBxf3Qxriccm .Utdt7JrpIm5JlpQmqyj1v {
+    margin: 0;
+}
+
+._3cykd-VfN_xBxf3Qxriccm ._3OhUxFVlQYr9W5ThxstR8k {
+    display: none;
+}
+
+._2Szzh5sKyGgnLUR870zbDE svg,
+._1TdaAqMFadi0UTqilrkelR ._1KrJ3sFAqPBN9mfpaNTU5F {
+    width: 16px !important;
+    height: 16px !important;
+}
+
+
+
+/*
+& Resize Divider
+*/
+._276E6ijBpjMA2_iTxNhhjc {
+    margin: auto 6px;
+    width: 4px;
+    height: 240px;
+    border-radius: 8px;
+    background-color: rgb(var(--st-accent-1));
+    transition: all 0.2s ease-in-out;
+}
+._276E6ijBpjMA2_iTxNhhjc:hover, ._276E6ijBpjMA2_iTxNhhjc:focus, ._276E6ijBpjMA2_iTxNhhjc:active {
+    height: 280px;
+    background-color: rgb(var(--st-accent-2)) !important;
+}
